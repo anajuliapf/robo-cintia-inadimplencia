@@ -1,0 +1,4 @@
+pandas
+slack_sdk
+slack_bolt
+tabulate
